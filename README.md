@@ -10,6 +10,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Add To Cart
 ![Ekran Resmi 2021-12-11 18 23 23](https://user-images.githubusercontent.com/71590619/145682284-afc7e1c0-d3a4-4cb4-885f-d456a2d9a1e3.png)
+![Ekran Resmi 2021-12-11 18 37 56](https://user-images.githubusercontent.com/71590619/145682381-85a460b8-cfba-43ff-b649-935468d2e789.png)
+
 
 ## Add Product
 ![Ekran Resmi 2021-12-11 18 24 14](https://user-images.githubusercontent.com/71590619/145682292-ad09f3c4-7e61-4ccc-af72-99f63760abf3.png)
