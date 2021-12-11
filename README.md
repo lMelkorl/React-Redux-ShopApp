@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshots 📸
+![Ekran Resmi 2021-12-11 18 22 56](https://user-images.githubusercontent.com/71590619/145682256-7929be5f-308a-440e-b928-86ac1ae813b3.png)
+
+## Categories
+![Ekran Resmi 2021-12-11 18 23 11](https://user-images.githubusercontent.com/71590619/145682277-3508a197-beab-45ac-b1a3-9d08a13b2903.png)
+
+## Add To Cart
+![Ekran Resmi 2021-12-11 18 23 23](https://user-images.githubusercontent.com/71590619/145682284-afc7e1c0-d3a4-4cb4-885f-d456a2d9a1e3.png)
+
+## Add Product
+![Ekran Resmi 2021-12-11 18 24 14](https://user-images.githubusercontent.com/71590619/145682292-ad09f3c4-7e61-4ccc-af72-99f63760abf3.png)
+
+
+all coming soon...
+
+
 ## Available Scripts
 
 In the project directory, you can run:
